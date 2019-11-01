@@ -1,2 +1,7 @@
-# Data-Science-Python
-Data Science Project using Python
+# Portfolio: Data Science Projects
+
+**Development Environment**
+* Programming Language: Python
+* Programming Environment: Jupyter Notebooks
+
+
